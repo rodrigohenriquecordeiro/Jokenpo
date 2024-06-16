@@ -3,12 +3,12 @@
 ![image](https://github.com/rodrigohenriquecordeiro/Jokenpo/assets/97626874/7aa657f5-33bc-4033-805f-d33ed2c1fe0a)
 
 
-### Resultado
+### Resultado da Jogada
 
 ![image](https://github.com/rodrigohenriquecordeiro/Jokenpo/assets/97626874/b2d1d7a1-459d-47bb-90a1-af4614fc7566)
 
 
-### Continuar partida
+### Continuar partida?
 
 ![image](https://github.com/rodrigohenriquecordeiro/Jokenpo/assets/97626874/903bfc09-6fdd-4d82-80e2-735de3fbe0ba)
 
